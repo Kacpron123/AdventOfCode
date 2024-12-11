@@ -6,4 +6,5 @@ Advent of Code solutions by Kacpron.
 |:---:|:------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
 | 01  | [Historian Hysteria](https://adventofcode.com/2024/day/1)   | [Python](day01/solve.py)                                                                                                 |
 | 02  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)    | [Python](day02/solve.py)                                                                                                 |
-| 03  | [Mull It Ove](https://adventofcode.com/2024/day/3)    | [C](day03/solve.c)                                                                                                 |
+| 03  | [Mull It Over](https://adventofcode.com/2024/day/4)    | [CPP](day03/solve.cpp)                                                                                                 |
+| 04  | [Ceres Search](https://adventofcode.com/2024/day/4)    | [Python](day04/solve.py)                                                                                                 |
