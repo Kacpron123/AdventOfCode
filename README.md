@@ -8,3 +8,4 @@ Advent of Code solutions by Kacpron.
 | 02  | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)    | [Python](day02/solve.py)                                                                                                 |
 | 03  | [Mull It Over](https://adventofcode.com/2024/day/4)    | [CPP](day03/solve.cpp)                                                                                                 |
 | 04  | [Ceres Search](https://adventofcode.com/2024/day/4)    | [Python](day04/solve.py)                                                                                                 |
+| 05 | [Print Queue](https://adventofcode.com/2024/day/5)    | [Python](day05/solve.py)                                                                                                 |
