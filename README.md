@@ -11,3 +11,4 @@ Advent of Code solutions by Kacpron.
 | 05 | [Print Queue](https://adventofcode.com/2024/day/5)    | [Python](day05/solve.py)                                                                                                 |
 | 06 | [Guard Gallivant](https://adventofcode.com/2024/day/6)    | [Python](day06/solve.py)                                                                                                 |
 | 07 | [Bridge Repair](https://adventofcode.com/2024/day/7)    | [Python](day07/solve.py)                                                                                                 |
+| 08 | [Resonant Collinearity](https://adventofcode.com/2024/day/8)    | [Python](day08/solve.py)                                                                                                 |
