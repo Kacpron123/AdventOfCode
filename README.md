@@ -13,3 +13,4 @@ Advent of Code solutions by Kacpron.
 | 07 | [Bridge Repair](https://adventofcode.com/2024/day/7)    | [Python](day07/solve.py)                                                                                                 |
 | 08 | [Resonant Collinearity](https://adventofcode.com/2024/day/8)    | [Python](day08/solve.py)                                                                                                 |
 | 09 | [Disk Fragmenter](https://adventofcode.com/2024/day/9)    | [Python](day09/solve.py)                                                                                                 |
+| 10 | [Hoof It](https://adventofcode.com/2024/day/10)    | [Python](day10/solve.py)                                                                                                 |
