@@ -12,3 +12,4 @@ Advent of Code solutions by Kacpron.
 | 06 | [Guard Gallivant](https://adventofcode.com/2024/day/6)    | [Python](day06/solve.py)                                                                                                 |
 | 07 | [Bridge Repair](https://adventofcode.com/2024/day/7)    | [Python](day07/solve.py)                                                                                                 |
 | 08 | [Resonant Collinearity](https://adventofcode.com/2024/day/8)    | [Python](day08/solve.py)                                                                                                 |
+| 09 | [Disk Fragmenter](https://adventofcode.com/2024/day/9)    | [Python](day09/solve.py)                                                                                                 |
