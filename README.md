@@ -15,3 +15,4 @@ Advent of Code solutions by Kacpron.
 | 09 | [Disk Fragmenter](https://adventofcode.com/2024/day/9)    | [Python](day09/solve.py)                                                                                                 |
 | 10 | [Hoof It](https://adventofcode.com/2024/day/10)    | [Python](day10/solve.py)                                                                                                 |
 | 11 | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Python](day11/solve.py)                                                                                                 |
+| 12 | [Garden Groups](https://adventofcode.com/2024/day/12)    | [Python](day12/solve.py)                                                                                                 |
