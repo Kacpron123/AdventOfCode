@@ -17,4 +17,4 @@ Advent of Code solutions by Kacpron.
 | 11 | [Plutonian Pebbles](https://adventofcode.com/2024/day/11)    | [Python](day11/solve.py)                                                                                                 |
 | 12 | [Garden Groups](https://adventofcode.com/2024/day/12)    | [Python](day12/solve.py)                                                                                                 |
 | 13 | [Claw Contraption](https://adventofcode.com/2024/day/13)    | [Python](day13/solve.py)                                                                                                 |
-d
+| 14 | [Restroom Redoubt](https://adventofcode.com/2024/day/14)    | [Python](day14/solve.py)                                                                                                 |
