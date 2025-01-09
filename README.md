@@ -18,3 +18,4 @@ Advent of Code solutions by Kacpron.
 | 12 | [Garden Groups](https://adventofcode.com/2024/day/12)    | [Python](day12/solve.py)                                                                                                 |
 | 13 | [Claw Contraption](https://adventofcode.com/2024/day/13)    | [Python](day13/solve.py)                                                                                                 |
 | 14 | [Restroom Redoubt](https://adventofcode.com/2024/day/14)    | [Python](day14/solve.py)                                                                                                 |
+| 15 | [Warehouse Woes](https://adventofcode.com/2024/day/15)    | [Python](day15/solve.py)                                                                                                 |
